@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Scope_proj"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\learning&amp;practice\;CMake Files\learning&amp;practice\MITOCW_IntroToCpp\;CMake Files\learning&amp;practice\MITOCW_IntroToCpp\HelloWorld\;CMake Files\learning&amp;practice\MITOCW_IntroToCpp\Scope\;CMake Files\learning&amp;practice\MITOCW_IntroToCpp\Scope\sameName2inBlock\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/GitHub Repo/CppProjects/cmake-build-debug/learning&amp;practice/MITOCW_IntroToCpp/Scope"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/GitHub Repo/CppProjects/cmake-build-debug/learning&amp;practice/MITOCW_IntroToCpp/Scope/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/GitHub Repo/CppProjects/cmake-build-debug/learning&amp;practice/MITOCW_IntroToCpp/Scope/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/GitHub Repo/CppProjects/cmake-build-debug/learning&amp;practice/MITOCW_IntroToCpp/Scope/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/GitHub Repo/CppProjects/cmake-build-debug/learning&amp;practice/MITOCW_IntroToCpp/Scope/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sameName2inBlock_proj">
+				<Option output="D:/GitHub Repo/CppProjects/cmake-build-debug/learning&amp;practice/MITOCW_IntroToCpp/Scope/sameName2inBlock/sameName2inBlock_proj.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/GitHub Repo/CppProjects/cmake-build-debug/learning&amp;practice/MITOCW_IntroToCpp/Scope/sameName2inBlock"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/GitHub Repo/CppProjects/cmake-build-debug/learning&amp;practice/MITOCW_IntroToCpp/Scope/sameName2inBlock/Makefile&quot;  VERBOSE=1 sameName2inBlock_proj"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/GitHub Repo/CppProjects/cmake-build-debug/learning&amp;practice/MITOCW_IntroToCpp/Scope/sameName2inBlock/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/GitHub Repo/CppProjects/cmake-build-debug/learning&amp;practice/MITOCW_IntroToCpp/Scope/sameName2inBlock/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/GitHub Repo/CppProjects/cmake-build-debug/learning&amp;practice/MITOCW_IntroToCpp/Scope/sameName2inBlock/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sameName2inBlock_proj/fast">
+				<Option output="D:/GitHub Repo/CppProjects/cmake-build-debug/learning&amp;practice/MITOCW_IntroToCpp/Scope/sameName2inBlock/sameName2inBlock_proj.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="D:/GitHub Repo/CppProjects/cmake-build-debug/learning&amp;practice/MITOCW_IntroToCpp/Scope/sameName2inBlock"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/5.3.0/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/GitHub Repo/CppProjects/cmake-build-debug/learning&amp;practice/MITOCW_IntroToCpp/Scope/sameName2inBlock/Makefile&quot;  VERBOSE=1 sameName2inBlock_proj/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/GitHub Repo/CppProjects/cmake-build-debug/learning&amp;practice/MITOCW_IntroToCpp/Scope/sameName2inBlock/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/GitHub Repo/CppProjects/cmake-build-debug/learning&amp;practice/MITOCW_IntroToCpp/Scope/sameName2inBlock/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/GitHub Repo/CppProjects/cmake-build-debug/learning&amp;practice/MITOCW_IntroToCpp/Scope/sameName2inBlock/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/GitHub Repo/CppProjects/learning&amp;practice/MITOCW_IntroToCpp/Scope/sameName2inBlock/main.cpp">
+			<Option target="sameName2inBlock_proj"/>
+		</Unit>
+		<Unit filename="D:/GitHub Repo/CppProjects/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="D:/GitHub Repo/CppProjects/learning&amp;practice/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\learning&amp;practice\"/>
+		</Unit>
+		<Unit filename="D:/GitHub Repo/CppProjects/learning&amp;practice/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\learning&amp;practice\"/>
+		</Unit>
+		<Unit filename="D:/GitHub Repo/CppProjects/learning&amp;practice/MITOCW_IntroToCpp/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\learning&amp;practice\MITOCW_IntroToCpp\"/>
+		</Unit>
+		<Unit filename="D:/GitHub Repo/CppProjects/learning&amp;practice/MITOCW_IntroToCpp/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\learning&amp;practice\MITOCW_IntroToCpp\"/>
+		</Unit>
+		<Unit filename="D:/GitHub Repo/CppProjects/learning&amp;practice/MITOCW_IntroToCpp/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\learning&amp;practice\MITOCW_IntroToCpp\"/>
+		</Unit>
+		<Unit filename="D:/GitHub Repo/CppProjects/learning&amp;practice/MITOCW_IntroToCpp/HelloWorld/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\learning&amp;practice\MITOCW_IntroToCpp\HelloWorld\"/>
+		</Unit>
+		<Unit filename="D:/GitHub Repo/CppProjects/learning&amp;practice/MITOCW_IntroToCpp/HelloWorld/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\learning&amp;practice\MITOCW_IntroToCpp\HelloWorld\"/>
+		</Unit>
+		<Unit filename="D:/GitHub Repo/CppProjects/learning&amp;practice/MITOCW_IntroToCpp/HelloWorld/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\learning&amp;practice\MITOCW_IntroToCpp\HelloWorld\"/>
+		</Unit>
+		<Unit filename="D:/GitHub Repo/CppProjects/learning&amp;practice/MITOCW_IntroToCpp/HelloWorld/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\learning&amp;practice\MITOCW_IntroToCpp\HelloWorld\"/>
+		</Unit>
+		<Unit filename="D:/GitHub Repo/CppProjects/learning&amp;practice/MITOCW_IntroToCpp/Scope/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\learning&amp;practice\MITOCW_IntroToCpp\Scope\"/>
+		</Unit>
+		<Unit filename="D:/GitHub Repo/CppProjects/learning&amp;practice/MITOCW_IntroToCpp/Scope/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\learning&amp;practice\MITOCW_IntroToCpp\Scope\"/>
+		</Unit>
+		<Unit filename="D:/GitHub Repo/CppProjects/learning&amp;practice/MITOCW_IntroToCpp/Scope/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\learning&amp;practice\MITOCW_IntroToCpp\Scope\"/>
+		</Unit>
+		<Unit filename="D:/GitHub Repo/CppProjects/learning&amp;practice/MITOCW_IntroToCpp/Scope/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\learning&amp;practice\MITOCW_IntroToCpp\Scope\"/>
+		</Unit>
+		<Unit filename="D:/GitHub Repo/CppProjects/learning&amp;practice/MITOCW_IntroToCpp/Scope/sameName2inBlock/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\learning&amp;practice\MITOCW_IntroToCpp\Scope\sameName2inBlock\"/>
+		</Unit>
+		<Unit filename="D:/GitHub Repo/CppProjects/learning&amp;practice/MITOCW_IntroToCpp/Scope/sameName2inBlock/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\learning&amp;practice\MITOCW_IntroToCpp\Scope\sameName2inBlock\"/>
+		</Unit>
+		<Unit filename="D:/GitHub Repo/CppProjects/learning&amp;practice/MITOCW_IntroToCpp/Scope/sameName2inBlock/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\learning&amp;practice\MITOCW_IntroToCpp\Scope\sameName2inBlock\"/>
+		</Unit>
+		<Unit filename="D:/GitHub Repo/CppProjects/learning&amp;practice/MITOCW_IntroToCpp/Scope/sameName2inBlock/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\learning&amp;practice\MITOCW_IntroToCpp\Scope\sameName2inBlock\"/>
+		</Unit>
+		<Unit filename="D:/GitHub Repo/CppProjects/learning&amp;practice/MITOCW_IntroToCpp/Scope/sameName2inBlock/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\learning&amp;practice\MITOCW_IntroToCpp\Scope\sameName2inBlock\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

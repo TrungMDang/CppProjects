@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="learning"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\learning&amp;practice\;CMake Files\learning&amp;practice\MITOCW_IntroToCpp\;CMake Files\learning&amp;practice\MITOCW_IntroToCpp\HelloWorld\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="D:/GitHub Repo/CppProjects/cmake-build-debug/learning&amp;practice"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/GitHub Repo/CppProjects/cmake-build-debug/learning&amp;practice/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/GitHub Repo/CppProjects/cmake-build-debug/learning&amp;practice/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/GitHub Repo/CppProjects/cmake-build-debug/learning&amp;practice/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;D:/GitHub Repo/CppProjects/cmake-build-debug/learning&amp;practice/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="D:/GitHub Repo/CppProjects/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="D:/GitHub Repo/CppProjects/learning&amp;practice/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\learning&amp;practice\"/>
+		</Unit>
+		<Unit filename="D:/GitHub Repo/CppProjects/learning&amp;practice/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\learning&amp;practice\"/>
+		</Unit>
+		<Unit filename="D:/GitHub Repo/CppProjects/learning&amp;practice/MITOCW_IntroToCpp/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\learning&amp;practice\MITOCW_IntroToCpp\"/>
+		</Unit>
+		<Unit filename="D:/GitHub Repo/CppProjects/learning&amp;practice/MITOCW_IntroToCpp/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\learning&amp;practice\MITOCW_IntroToCpp\"/>
+		</Unit>
+		<Unit filename="D:/GitHub Repo/CppProjects/learning&amp;practice/MITOCW_IntroToCpp/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\learning&amp;practice\MITOCW_IntroToCpp\"/>
+		</Unit>
+		<Unit filename="D:/GitHub Repo/CppProjects/learning&amp;practice/MITOCW_IntroToCpp/HelloWorld/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\learning&amp;practice\MITOCW_IntroToCpp\HelloWorld\"/>
+		</Unit>
+		<Unit filename="D:/GitHub Repo/CppProjects/learning&amp;practice/MITOCW_IntroToCpp/HelloWorld/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\learning&amp;practice\MITOCW_IntroToCpp\HelloWorld\"/>
+		</Unit>
+		<Unit filename="D:/GitHub Repo/CppProjects/learning&amp;practice/MITOCW_IntroToCpp/HelloWorld/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\learning&amp;practice\MITOCW_IntroToCpp\HelloWorld\"/>
+		</Unit>
+		<Unit filename="D:/GitHub Repo/CppProjects/learning&amp;practice/MITOCW_IntroToCpp/HelloWorld/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\learning&amp;practice\MITOCW_IntroToCpp\HelloWorld\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

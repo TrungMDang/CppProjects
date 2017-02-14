@@ -3,9 +3,4 @@ project(CppProjects)
 
 set(CMAKE_CXX_STANDARD 11)
 
-set(SOURCE_FILES
-        .gitignore
-        README.md)
-
 add_subdirectory(learning&practice)
-add_executable(CppProjects ${SOURCE_FILES})
