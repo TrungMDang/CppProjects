@@ -2,24 +2,24 @@
 <CodeBlocks_project_file>
 	<FileVersion major="1" minor="6"/>
 	<Project>
-		<Option title="sameName2inBlock_proj"/>
+		<Option title="HackerRank30DaysOfCode_proj"/>
 		<Option makefile_is_custom="1"/>
 		<Option compiler="gcc"/>
 		<Option virtualFolders="CMake Files\;CMake Files\learning&amp;practice\;CMake Files\learning&amp;practice\MITOCW_IntroToCpp\;CMake Files\learning&amp;practice\MITOCW_IntroToCpp\HelloWorld\;CMake Files\learning&amp;practice\MITOCW_IntroToCpp\Scope\;CMake Files\learning&amp;practice\MITOCW_IntroToCpp\Scope\sameName2inBlock\;CMake Files\learning&amp;practice\HackerRank30DaysOfCode\;CMake Files\learning&amp;practice\HackerRank30DaysOfCode\Day10MaxConsecutiveOnesInBinary\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/cygdrive/f/GitHub Repositories/CppProjects/cmake-build-debug/learning&amp;practice/MITOCW_IntroToCpp/Scope/sameName2inBlock"/>
+				<Option working_dir="/cygdrive/f/GitHub Repositories/CppProjects/cmake-build-debug/learning&amp;practice/HackerRank30DaysOfCode"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/GitHub\ Repositories/CppProjects/cmake-build-debug/learning&amp;practice/MITOCW_IntroToCpp/Scope/sameName2inBlock/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/GitHub\ Repositories/CppProjects/cmake-build-debug/learning&amp;practice/MITOCW_IntroToCpp/Scope/sameName2inBlock/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/GitHub\ Repositories/CppProjects/cmake-build-debug/learning&amp;practice/MITOCW_IntroToCpp/Scope/sameName2inBlock/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/GitHub\ Repositories/CppProjects/cmake-build-debug/learning&amp;practice/MITOCW_IntroToCpp/Scope/sameName2inBlock/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/GitHub\ Repositories/CppProjects/cmake-build-debug/learning&amp;practice/HackerRank30DaysOfCode/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/GitHub\ Repositories/CppProjects/cmake-build-debug/learning&amp;practice/HackerRank30DaysOfCode/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/GitHub\ Repositories/CppProjects/cmake-build-debug/learning&amp;practice/HackerRank30DaysOfCode/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/GitHub\ Repositories/CppProjects/cmake-build-debug/learning&amp;practice/HackerRank30DaysOfCode/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="sameName2inBlock_proj">
-				<Option output="/cygdrive/f/GitHub Repositories/CppProjects/cmake-build-debug/learning&amp;practice/MITOCW_IntroToCpp/Scope/sameName2inBlock/sameName2inBlock_proj.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/cygdrive/f/GitHub Repositories/CppProjects/cmake-build-debug/learning&amp;practice/MITOCW_IntroToCpp/Scope/sameName2inBlock"/>
+			<Target title="Day10MaxConsecutiveOnesInBinary_proj">
+				<Option output="/cygdrive/f/GitHub Repositories/CppProjects/cmake-build-debug/learning&amp;practice/HackerRank30DaysOfCode/Day10MaxConsecutiveOnesInBinary/Day10MaxConsecutiveOnesInBinary_proj.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/f/GitHub Repositories/CppProjects/cmake-build-debug/learning&amp;practice/HackerRank30DaysOfCode/Day10MaxConsecutiveOnesInBinary"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -32,15 +32,15 @@
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/5.3.0/include/c++/backward"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/GitHub\ Repositories/CppProjects/cmake-build-debug/learning&amp;practice/MITOCW_IntroToCpp/Scope/sameName2inBlock/Makefile&quot;  VERBOSE=1 sameName2inBlock_proj"/>
-					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/GitHub\ Repositories/CppProjects/cmake-build-debug/learning&amp;practice/MITOCW_IntroToCpp/Scope/sameName2inBlock/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/GitHub\ Repositories/CppProjects/cmake-build-debug/learning&amp;practice/MITOCW_IntroToCpp/Scope/sameName2inBlock/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/GitHub\ Repositories/CppProjects/cmake-build-debug/learning&amp;practice/MITOCW_IntroToCpp/Scope/sameName2inBlock/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/GitHub\ Repositories/CppProjects/cmake-build-debug/learning&amp;practice/HackerRank30DaysOfCode/Day10MaxConsecutiveOnesInBinary/Makefile&quot;  VERBOSE=1 Day10MaxConsecutiveOnesInBinary_proj"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/GitHub\ Repositories/CppProjects/cmake-build-debug/learning&amp;practice/HackerRank30DaysOfCode/Day10MaxConsecutiveOnesInBinary/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/GitHub\ Repositories/CppProjects/cmake-build-debug/learning&amp;practice/HackerRank30DaysOfCode/Day10MaxConsecutiveOnesInBinary/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/GitHub\ Repositories/CppProjects/cmake-build-debug/learning&amp;practice/HackerRank30DaysOfCode/Day10MaxConsecutiveOnesInBinary/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="sameName2inBlock_proj/fast">
-				<Option output="/cygdrive/f/GitHub Repositories/CppProjects/cmake-build-debug/learning&amp;practice/MITOCW_IntroToCpp/Scope/sameName2inBlock/sameName2inBlock_proj.exe" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/cygdrive/f/GitHub Repositories/CppProjects/cmake-build-debug/learning&amp;practice/MITOCW_IntroToCpp/Scope/sameName2inBlock"/>
+			<Target title="Day10MaxConsecutiveOnesInBinary_proj/fast">
+				<Option output="/cygdrive/f/GitHub Repositories/CppProjects/cmake-build-debug/learning&amp;practice/HackerRank30DaysOfCode/Day10MaxConsecutiveOnesInBinary/Day10MaxConsecutiveOnesInBinary_proj.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/f/GitHub Repositories/CppProjects/cmake-build-debug/learning&amp;practice/HackerRank30DaysOfCode/Day10MaxConsecutiveOnesInBinary"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -53,15 +53,15 @@
 					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/5.3.0/include/c++/backward"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/GitHub\ Repositories/CppProjects/cmake-build-debug/learning&amp;practice/MITOCW_IntroToCpp/Scope/sameName2inBlock/Makefile&quot;  VERBOSE=1 sameName2inBlock_proj/fast"/>
-					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/GitHub\ Repositories/CppProjects/cmake-build-debug/learning&amp;practice/MITOCW_IntroToCpp/Scope/sameName2inBlock/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/GitHub\ Repositories/CppProjects/cmake-build-debug/learning&amp;practice/MITOCW_IntroToCpp/Scope/sameName2inBlock/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/GitHub\ Repositories/CppProjects/cmake-build-debug/learning&amp;practice/MITOCW_IntroToCpp/Scope/sameName2inBlock/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/GitHub\ Repositories/CppProjects/cmake-build-debug/learning&amp;practice/HackerRank30DaysOfCode/Day10MaxConsecutiveOnesInBinary/Makefile&quot;  VERBOSE=1 Day10MaxConsecutiveOnesInBinary_proj/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/GitHub\ Repositories/CppProjects/cmake-build-debug/learning&amp;practice/HackerRank30DaysOfCode/Day10MaxConsecutiveOnesInBinary/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/GitHub\ Repositories/CppProjects/cmake-build-debug/learning&amp;practice/HackerRank30DaysOfCode/Day10MaxConsecutiveOnesInBinary/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j8 -f &quot;/cygdrive/f/GitHub\ Repositories/CppProjects/cmake-build-debug/learning&amp;practice/HackerRank30DaysOfCode/Day10MaxConsecutiveOnesInBinary/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/cygdrive/f/GitHub Repositories/CppProjects/learning&amp;practice/MITOCW_IntroToCpp/Scope/sameName2inBlock/main.cpp">
-			<Option target="sameName2inBlock_proj"/>
+		<Unit filename="/cygdrive/f/GitHub Repositories/CppProjects/learning&amp;practice/HackerRank30DaysOfCode/Day10MaxConsecutiveOnesInBinary/main.cpp">
+			<Option target="Day10MaxConsecutiveOnesInBinary_proj"/>
 		</Unit>
 		<Unit filename="/cygdrive/f/GitHub Repositories/CppProjects/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
