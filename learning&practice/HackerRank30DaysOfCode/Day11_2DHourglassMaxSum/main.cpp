@@ -17,14 +17,9 @@
 #include <deque>
 #include <queue>
 #include <stack>
-#include <string>
 #include <bitset>
-#include <cstdio>
 #include <limits>
-#include <vector>
-#include <climits>
 #include <cstring>
-#include <cstdlib>
 #include <fstream>
 #include <iterator>
 #include <numeric>
