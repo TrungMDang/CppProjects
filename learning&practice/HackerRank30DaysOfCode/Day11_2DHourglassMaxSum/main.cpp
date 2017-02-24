@@ -68,7 +68,7 @@ vector<vector<int>> getHourglass(vector<vector<int>> arr, int r, int c) {
                 hg[i][j] = arr[i + r][j + c];
         }
     }
-    printHourglass(hg);
+    //printHourglass(hg);
     return hg;
 }
 /***
@@ -118,12 +118,14 @@ std::vector<std::vector<int>> read2DVectorInput(string inputName, int col) {
 
 int main(){
     string fileName = "input.txt";
+    //expected output -19
     vector< vector<int> > arr = read2DVectorInput(fileName, 6);
-    int maxSum = 0;
+    //Lowest possible sum under constraint: -9 <= A[i][j] <= 9
+    int maxSum = -63;
+
     for (int i =0; i < arr.size() - 2; i++) {
         for (int j = 0; j < arr[0].size() - 2; j++) {
             vector<vector<int>> hg = getHourglass(arr, i, j);
-            cout << "-----------" << endl;
             int sum = getHgSum(hg);
             if (sum > maxSum) maxSum = sum;
         }
