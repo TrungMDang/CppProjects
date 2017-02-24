@@ -4,3 +4,4 @@ project(HackerRank30DaysOfCode_proj)
 set(CMAKE_CXX_STANDARD 11)
 
 add_subdirectory(Day10MaxConsecutiveOnesInBinary)
+add_subdirectory(Day11_2DHourglassMaxSum)
