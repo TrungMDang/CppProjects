@@ -5,7 +5,7 @@
 		<Option title="HackerRank30DaysOfCode_proj"/>
 		<Option makefile_is_custom="1"/>
 		<Option compiler="gcc"/>
-		<Option virtualFolders="CMake Files\;CMake Files\learning&amp;practice\;CMake Files\learning&amp;practice\MITOCW_IntroToCpp\;CMake Files\learning&amp;practice\MITOCW_IntroToCpp\HelloWorld\;CMake Files\learning&amp;practice\MITOCW_IntroToCpp\Scope\;CMake Files\learning&amp;practice\MITOCW_IntroToCpp\Scope\sameName2inBlock\;CMake Files\learning&amp;practice\HackerRank30DaysOfCode\;CMake Files\learning&amp;practice\HackerRank30DaysOfCode\Day10MaxConsecutiveOnesInBinary\;CMake Files\learning&amp;practice\HackerRank30DaysOfCode\Day11_2DHourglassMaxSum\;CMake Files\learning&amp;practice\HackerRank30DaysOfCode\Day12_Inheritance\;"/>
+		<Option virtualFolders="CMake Files\;CMake Files\learning&amp;practice\;CMake Files\learning&amp;practice\MITOCW_IntroToCpp\;CMake Files\learning&amp;practice\MITOCW_IntroToCpp\HelloWorld\;CMake Files\learning&amp;practice\MITOCW_IntroToCpp\Scope\;CMake Files\learning&amp;practice\MITOCW_IntroToCpp\Scope\sameName2inBlock\;CMake Files\learning&amp;practice\HackerRank30DaysOfCode\;CMake Files\learning&amp;practice\HackerRank30DaysOfCode\Day10MaxConsecutiveOnesInBinary\;CMake Files\learning&amp;practice\HackerRank30DaysOfCode\Day11_2DHourglassMaxSum\;CMake Files\learning&amp;practice\HackerRank30DaysOfCode\Day12_Inheritance\;CMake Files\learning&amp;practice\HackerRank30DaysOfCode\Day13_AbstractClass\;CMake Files\learning&amp;practice\HackerRank30DaysOfCode\Day14_Scope\;CMake Files\learning&amp;practice\HackerRank30DaysOfCode\Day15_LinkedList\;CMake Files\learning&amp;practice\HackerRank30DaysOfCode\Day16_Exception_StringToInteger\;"/>
 		<Build>
 			<Target title="all">
 				<Option working_dir="/cygdrive/d/GitHub Repo/CppProjects/cmake-build-debug/learning&amp;practice/HackerRank30DaysOfCode"/>
@@ -143,6 +143,174 @@
 					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/GitHub\ Repo/CppProjects/cmake-build-debug/learning&amp;practice/HackerRank30DaysOfCode/Day12_Inheritance/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
+			<Target title="Day13_AbstractClass_proj">
+				<Option output="/cygdrive/d/GitHub Repo/CppProjects/cmake-build-debug/learning&amp;practice/HackerRank30DaysOfCode/Day13_AbstractClass/Day13_AbstractClass_proj.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/d/GitHub Repo/CppProjects/cmake-build-debug/learning&amp;practice/HackerRank30DaysOfCode/Day13_AbstractClass"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/5.4.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/5.4.0/../../../../lib/../include/w32api"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/5.4.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/5.4.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/5.4.0/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/GitHub\ Repo/CppProjects/cmake-build-debug/learning&amp;practice/HackerRank30DaysOfCode/Day13_AbstractClass/Makefile&quot;  VERBOSE=1 Day13_AbstractClass_proj"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/GitHub\ Repo/CppProjects/cmake-build-debug/learning&amp;practice/HackerRank30DaysOfCode/Day13_AbstractClass/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/GitHub\ Repo/CppProjects/cmake-build-debug/learning&amp;practice/HackerRank30DaysOfCode/Day13_AbstractClass/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/GitHub\ Repo/CppProjects/cmake-build-debug/learning&amp;practice/HackerRank30DaysOfCode/Day13_AbstractClass/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Day13_AbstractClass_proj/fast">
+				<Option output="/cygdrive/d/GitHub Repo/CppProjects/cmake-build-debug/learning&amp;practice/HackerRank30DaysOfCode/Day13_AbstractClass/Day13_AbstractClass_proj.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/d/GitHub Repo/CppProjects/cmake-build-debug/learning&amp;practice/HackerRank30DaysOfCode/Day13_AbstractClass"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/5.4.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/5.4.0/../../../../lib/../include/w32api"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/5.4.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/5.4.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/5.4.0/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/GitHub\ Repo/CppProjects/cmake-build-debug/learning&amp;practice/HackerRank30DaysOfCode/Day13_AbstractClass/Makefile&quot;  VERBOSE=1 Day13_AbstractClass_proj/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/GitHub\ Repo/CppProjects/cmake-build-debug/learning&amp;practice/HackerRank30DaysOfCode/Day13_AbstractClass/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/GitHub\ Repo/CppProjects/cmake-build-debug/learning&amp;practice/HackerRank30DaysOfCode/Day13_AbstractClass/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/GitHub\ Repo/CppProjects/cmake-build-debug/learning&amp;practice/HackerRank30DaysOfCode/Day13_AbstractClass/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Day14_Scope_proj">
+				<Option output="/cygdrive/d/GitHub Repo/CppProjects/cmake-build-debug/learning&amp;practice/HackerRank30DaysOfCode/Day14_Scope/Day14_Scope_proj.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/d/GitHub Repo/CppProjects/cmake-build-debug/learning&amp;practice/HackerRank30DaysOfCode/Day14_Scope"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/5.4.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/5.4.0/../../../../lib/../include/w32api"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/5.4.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/5.4.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/5.4.0/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/GitHub\ Repo/CppProjects/cmake-build-debug/learning&amp;practice/HackerRank30DaysOfCode/Day14_Scope/Makefile&quot;  VERBOSE=1 Day14_Scope_proj"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/GitHub\ Repo/CppProjects/cmake-build-debug/learning&amp;practice/HackerRank30DaysOfCode/Day14_Scope/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/GitHub\ Repo/CppProjects/cmake-build-debug/learning&amp;practice/HackerRank30DaysOfCode/Day14_Scope/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/GitHub\ Repo/CppProjects/cmake-build-debug/learning&amp;practice/HackerRank30DaysOfCode/Day14_Scope/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Day14_Scope_proj/fast">
+				<Option output="/cygdrive/d/GitHub Repo/CppProjects/cmake-build-debug/learning&amp;practice/HackerRank30DaysOfCode/Day14_Scope/Day14_Scope_proj.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/d/GitHub Repo/CppProjects/cmake-build-debug/learning&amp;practice/HackerRank30DaysOfCode/Day14_Scope"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/5.4.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/5.4.0/../../../../lib/../include/w32api"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/5.4.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/5.4.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/5.4.0/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/GitHub\ Repo/CppProjects/cmake-build-debug/learning&amp;practice/HackerRank30DaysOfCode/Day14_Scope/Makefile&quot;  VERBOSE=1 Day14_Scope_proj/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/GitHub\ Repo/CppProjects/cmake-build-debug/learning&amp;practice/HackerRank30DaysOfCode/Day14_Scope/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/GitHub\ Repo/CppProjects/cmake-build-debug/learning&amp;practice/HackerRank30DaysOfCode/Day14_Scope/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/GitHub\ Repo/CppProjects/cmake-build-debug/learning&amp;practice/HackerRank30DaysOfCode/Day14_Scope/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Day15_LinkedList_proj">
+				<Option output="/cygdrive/d/GitHub Repo/CppProjects/cmake-build-debug/learning&amp;practice/HackerRank30DaysOfCode/Day15_LinkedList/Day15_LinkedList_proj.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/d/GitHub Repo/CppProjects/cmake-build-debug/learning&amp;practice/HackerRank30DaysOfCode/Day15_LinkedList"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/5.4.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/5.4.0/../../../../lib/../include/w32api"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/5.4.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/5.4.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/5.4.0/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/GitHub\ Repo/CppProjects/cmake-build-debug/learning&amp;practice/HackerRank30DaysOfCode/Day15_LinkedList/Makefile&quot;  VERBOSE=1 Day15_LinkedList_proj"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/GitHub\ Repo/CppProjects/cmake-build-debug/learning&amp;practice/HackerRank30DaysOfCode/Day15_LinkedList/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/GitHub\ Repo/CppProjects/cmake-build-debug/learning&amp;practice/HackerRank30DaysOfCode/Day15_LinkedList/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/GitHub\ Repo/CppProjects/cmake-build-debug/learning&amp;practice/HackerRank30DaysOfCode/Day15_LinkedList/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Day15_LinkedList_proj/fast">
+				<Option output="/cygdrive/d/GitHub Repo/CppProjects/cmake-build-debug/learning&amp;practice/HackerRank30DaysOfCode/Day15_LinkedList/Day15_LinkedList_proj.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/d/GitHub Repo/CppProjects/cmake-build-debug/learning&amp;practice/HackerRank30DaysOfCode/Day15_LinkedList"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/5.4.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/5.4.0/../../../../lib/../include/w32api"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/5.4.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/5.4.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/5.4.0/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/GitHub\ Repo/CppProjects/cmake-build-debug/learning&amp;practice/HackerRank30DaysOfCode/Day15_LinkedList/Makefile&quot;  VERBOSE=1 Day15_LinkedList_proj/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/GitHub\ Repo/CppProjects/cmake-build-debug/learning&amp;practice/HackerRank30DaysOfCode/Day15_LinkedList/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/GitHub\ Repo/CppProjects/cmake-build-debug/learning&amp;practice/HackerRank30DaysOfCode/Day15_LinkedList/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/GitHub\ Repo/CppProjects/cmake-build-debug/learning&amp;practice/HackerRank30DaysOfCode/Day15_LinkedList/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Day16_Exception_StringToInteger_proj">
+				<Option output="/cygdrive/d/GitHub Repo/CppProjects/cmake-build-debug/learning&amp;practice/HackerRank30DaysOfCode/Day16_Exception_StringToInteger/Day16_Exception_StringToInteger_proj.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/d/GitHub Repo/CppProjects/cmake-build-debug/learning&amp;practice/HackerRank30DaysOfCode/Day16_Exception_StringToInteger"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/5.4.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/5.4.0/../../../../lib/../include/w32api"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/5.4.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/5.4.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/5.4.0/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/GitHub\ Repo/CppProjects/cmake-build-debug/learning&amp;practice/HackerRank30DaysOfCode/Day16_Exception_StringToInteger/Makefile&quot;  VERBOSE=1 Day16_Exception_StringToInteger_proj"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/GitHub\ Repo/CppProjects/cmake-build-debug/learning&amp;practice/HackerRank30DaysOfCode/Day16_Exception_StringToInteger/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/GitHub\ Repo/CppProjects/cmake-build-debug/learning&amp;practice/HackerRank30DaysOfCode/Day16_Exception_StringToInteger/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/GitHub\ Repo/CppProjects/cmake-build-debug/learning&amp;practice/HackerRank30DaysOfCode/Day16_Exception_StringToInteger/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Day16_Exception_StringToInteger_proj/fast">
+				<Option output="/cygdrive/d/GitHub Repo/CppProjects/cmake-build-debug/learning&amp;practice/HackerRank30DaysOfCode/Day16_Exception_StringToInteger/Day16_Exception_StringToInteger_proj.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/cygdrive/d/GitHub Repo/CppProjects/cmake-build-debug/learning&amp;practice/HackerRank30DaysOfCode/Day16_Exception_StringToInteger"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/5.4.0/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/5.4.0/../../../../lib/../include/w32api"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/5.4.0/include/c++"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/5.4.0/include/c++/x86_64-pc-cygwin"/>
+					<Add directory="/usr/lib/gcc/x86_64-pc-cygwin/5.4.0/include/c++/backward"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/GitHub\ Repo/CppProjects/cmake-build-debug/learning&amp;practice/HackerRank30DaysOfCode/Day16_Exception_StringToInteger/Makefile&quot;  VERBOSE=1 Day16_Exception_StringToInteger_proj/fast"/>
+					<CompileFile command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/GitHub\ Repo/CppProjects/cmake-build-debug/learning&amp;practice/HackerRank30DaysOfCode/Day16_Exception_StringToInteger/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/GitHub\ Repo/CppProjects/cmake-build-debug/learning&amp;practice/HackerRank30DaysOfCode/Day16_Exception_StringToInteger/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make.exe -j4 -f &quot;/cygdrive/d/GitHub\ Repo/CppProjects/cmake-build-debug/learning&amp;practice/HackerRank30DaysOfCode/Day16_Exception_StringToInteger/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
 		</Build>
 		<Unit filename="/cygdrive/d/GitHub Repo/CppProjects/learning&amp;practice/HackerRank30DaysOfCode/Day10MaxConsecutiveOnesInBinary/main.cpp">
 			<Option target="Day10MaxConsecutiveOnesInBinary_proj"/>
@@ -158,6 +326,18 @@
 		</Unit>
 		<Unit filename="/cygdrive/d/GitHub Repo/CppProjects/learning&amp;practice/HackerRank30DaysOfCode/Day12_Inheritance/main.cpp">
 			<Option target="Day12_Inheritance_proj"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/GitHub Repo/CppProjects/learning&amp;practice/HackerRank30DaysOfCode/Day13_AbstractClass/main.cpp">
+			<Option target="Day13_AbstractClass_proj"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/GitHub Repo/CppProjects/learning&amp;practice/HackerRank30DaysOfCode/Day14_Scope/main.cpp">
+			<Option target="Day14_Scope_proj"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/GitHub Repo/CppProjects/learning&amp;practice/HackerRank30DaysOfCode/Day15_LinkedList/main.cpp">
+			<Option target="Day15_LinkedList_proj"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/GitHub Repo/CppProjects/learning&amp;practice/HackerRank30DaysOfCode/Day16_Exception_StringToInteger/main.cpp">
+			<Option target="Day16_Exception_StringToInteger_proj"/>
 		</Unit>
 		<Unit filename="/cygdrive/d/GitHub Repo/CppProjects/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
@@ -260,6 +440,54 @@
 		</Unit>
 		<Unit filename="/cygdrive/d/GitHub Repo/CppProjects/learning&amp;practice/HackerRank30DaysOfCode/Day12_Inheritance/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\learning&amp;practice\HackerRank30DaysOfCode\Day12_Inheritance\"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/GitHub Repo/CppProjects/learning&amp;practice/HackerRank30DaysOfCode/Day13_AbstractClass/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\learning&amp;practice\HackerRank30DaysOfCode\Day13_AbstractClass\"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/GitHub Repo/CppProjects/learning&amp;practice/HackerRank30DaysOfCode/Day13_AbstractClass/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\learning&amp;practice\HackerRank30DaysOfCode\Day13_AbstractClass\"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/GitHub Repo/CppProjects/learning&amp;practice/HackerRank30DaysOfCode/Day13_AbstractClass/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\learning&amp;practice\HackerRank30DaysOfCode\Day13_AbstractClass\"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/GitHub Repo/CppProjects/learning&amp;practice/HackerRank30DaysOfCode/Day13_AbstractClass/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\learning&amp;practice\HackerRank30DaysOfCode\Day13_AbstractClass\"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/GitHub Repo/CppProjects/learning&amp;practice/HackerRank30DaysOfCode/Day14_Scope/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\learning&amp;practice\HackerRank30DaysOfCode\Day14_Scope\"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/GitHub Repo/CppProjects/learning&amp;practice/HackerRank30DaysOfCode/Day14_Scope/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\learning&amp;practice\HackerRank30DaysOfCode\Day14_Scope\"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/GitHub Repo/CppProjects/learning&amp;practice/HackerRank30DaysOfCode/Day14_Scope/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\learning&amp;practice\HackerRank30DaysOfCode\Day14_Scope\"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/GitHub Repo/CppProjects/learning&amp;practice/HackerRank30DaysOfCode/Day14_Scope/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\learning&amp;practice\HackerRank30DaysOfCode\Day14_Scope\"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/GitHub Repo/CppProjects/learning&amp;practice/HackerRank30DaysOfCode/Day15_LinkedList/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\learning&amp;practice\HackerRank30DaysOfCode\Day15_LinkedList\"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/GitHub Repo/CppProjects/learning&amp;practice/HackerRank30DaysOfCode/Day15_LinkedList/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\learning&amp;practice\HackerRank30DaysOfCode\Day15_LinkedList\"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/GitHub Repo/CppProjects/learning&amp;practice/HackerRank30DaysOfCode/Day15_LinkedList/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\learning&amp;practice\HackerRank30DaysOfCode\Day15_LinkedList\"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/GitHub Repo/CppProjects/learning&amp;practice/HackerRank30DaysOfCode/Day15_LinkedList/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\learning&amp;practice\HackerRank30DaysOfCode\Day15_LinkedList\"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/GitHub Repo/CppProjects/learning&amp;practice/HackerRank30DaysOfCode/Day16_Exception_StringToInteger/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\learning&amp;practice\HackerRank30DaysOfCode\Day16_Exception_StringToInteger\"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/GitHub Repo/CppProjects/learning&amp;practice/HackerRank30DaysOfCode/Day16_Exception_StringToInteger/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\learning&amp;practice\HackerRank30DaysOfCode\Day16_Exception_StringToInteger\"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/GitHub Repo/CppProjects/learning&amp;practice/HackerRank30DaysOfCode/Day16_Exception_StringToInteger/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\learning&amp;practice\HackerRank30DaysOfCode\Day16_Exception_StringToInteger\"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/GitHub Repo/CppProjects/learning&amp;practice/HackerRank30DaysOfCode/Day16_Exception_StringToInteger/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\learning&amp;practice\HackerRank30DaysOfCode\Day16_Exception_StringToInteger\"/>
 		</Unit>
 	</Project>
 </CodeBlocks_project_file>

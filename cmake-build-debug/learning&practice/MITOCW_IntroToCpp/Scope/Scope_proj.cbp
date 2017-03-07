@@ -5,7 +5,7 @@
 		<Option title="Scope_proj"/>
 		<Option makefile_is_custom="1"/>
 		<Option compiler="gcc"/>
-		<Option virtualFolders="CMake Files\;CMake Files\learning&amp;practice\;CMake Files\learning&amp;practice\MITOCW_IntroToCpp\;CMake Files\learning&amp;practice\MITOCW_IntroToCpp\HelloWorld\;CMake Files\learning&amp;practice\MITOCW_IntroToCpp\Scope\;CMake Files\learning&amp;practice\MITOCW_IntroToCpp\Scope\sameName2inBlock\;CMake Files\learning&amp;practice\HackerRank30DaysOfCode\;CMake Files\learning&amp;practice\HackerRank30DaysOfCode\Day10MaxConsecutiveOnesInBinary\;CMake Files\learning&amp;practice\HackerRank30DaysOfCode\Day11_2DHourglassMaxSum\;CMake Files\learning&amp;practice\HackerRank30DaysOfCode\Day12_Inheritance\;"/>
+		<Option virtualFolders="CMake Files\;CMake Files\learning&amp;practice\;CMake Files\learning&amp;practice\MITOCW_IntroToCpp\;CMake Files\learning&amp;practice\MITOCW_IntroToCpp\HelloWorld\;CMake Files\learning&amp;practice\MITOCW_IntroToCpp\Scope\;CMake Files\learning&amp;practice\MITOCW_IntroToCpp\Scope\sameName2inBlock\;CMake Files\learning&amp;practice\HackerRank30DaysOfCode\;CMake Files\learning&amp;practice\HackerRank30DaysOfCode\Day10MaxConsecutiveOnesInBinary\;CMake Files\learning&amp;practice\HackerRank30DaysOfCode\Day11_2DHourglassMaxSum\;CMake Files\learning&amp;practice\HackerRank30DaysOfCode\Day12_Inheritance\;CMake Files\learning&amp;practice\HackerRank30DaysOfCode\Day13_AbstractClass\;CMake Files\learning&amp;practice\HackerRank30DaysOfCode\Day14_Scope\;CMake Files\learning&amp;practice\HackerRank30DaysOfCode\Day15_LinkedList\;CMake Files\learning&amp;practice\HackerRank30DaysOfCode\Day16_Exception_StringToInteger\;"/>
 		<Build>
 			<Target title="all">
 				<Option working_dir="/cygdrive/d/GitHub Repo/CppProjects/cmake-build-debug/learning&amp;practice/MITOCW_IntroToCpp/Scope"/>
@@ -164,6 +164,54 @@
 		</Unit>
 		<Unit filename="/cygdrive/d/GitHub Repo/CppProjects/learning&amp;practice/HackerRank30DaysOfCode/Day12_Inheritance/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\learning&amp;practice\HackerRank30DaysOfCode\Day12_Inheritance\"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/GitHub Repo/CppProjects/learning&amp;practice/HackerRank30DaysOfCode/Day13_AbstractClass/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\learning&amp;practice\HackerRank30DaysOfCode\Day13_AbstractClass\"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/GitHub Repo/CppProjects/learning&amp;practice/HackerRank30DaysOfCode/Day13_AbstractClass/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\learning&amp;practice\HackerRank30DaysOfCode\Day13_AbstractClass\"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/GitHub Repo/CppProjects/learning&amp;practice/HackerRank30DaysOfCode/Day13_AbstractClass/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\learning&amp;practice\HackerRank30DaysOfCode\Day13_AbstractClass\"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/GitHub Repo/CppProjects/learning&amp;practice/HackerRank30DaysOfCode/Day13_AbstractClass/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\learning&amp;practice\HackerRank30DaysOfCode\Day13_AbstractClass\"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/GitHub Repo/CppProjects/learning&amp;practice/HackerRank30DaysOfCode/Day14_Scope/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\learning&amp;practice\HackerRank30DaysOfCode\Day14_Scope\"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/GitHub Repo/CppProjects/learning&amp;practice/HackerRank30DaysOfCode/Day14_Scope/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\learning&amp;practice\HackerRank30DaysOfCode\Day14_Scope\"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/GitHub Repo/CppProjects/learning&amp;practice/HackerRank30DaysOfCode/Day14_Scope/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\learning&amp;practice\HackerRank30DaysOfCode\Day14_Scope\"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/GitHub Repo/CppProjects/learning&amp;practice/HackerRank30DaysOfCode/Day14_Scope/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\learning&amp;practice\HackerRank30DaysOfCode\Day14_Scope\"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/GitHub Repo/CppProjects/learning&amp;practice/HackerRank30DaysOfCode/Day15_LinkedList/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\learning&amp;practice\HackerRank30DaysOfCode\Day15_LinkedList\"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/GitHub Repo/CppProjects/learning&amp;practice/HackerRank30DaysOfCode/Day15_LinkedList/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\learning&amp;practice\HackerRank30DaysOfCode\Day15_LinkedList\"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/GitHub Repo/CppProjects/learning&amp;practice/HackerRank30DaysOfCode/Day15_LinkedList/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\learning&amp;practice\HackerRank30DaysOfCode\Day15_LinkedList\"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/GitHub Repo/CppProjects/learning&amp;practice/HackerRank30DaysOfCode/Day15_LinkedList/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\learning&amp;practice\HackerRank30DaysOfCode\Day15_LinkedList\"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/GitHub Repo/CppProjects/learning&amp;practice/HackerRank30DaysOfCode/Day16_Exception_StringToInteger/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\learning&amp;practice\HackerRank30DaysOfCode\Day16_Exception_StringToInteger\"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/GitHub Repo/CppProjects/learning&amp;practice/HackerRank30DaysOfCode/Day16_Exception_StringToInteger/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\learning&amp;practice\HackerRank30DaysOfCode\Day16_Exception_StringToInteger\"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/GitHub Repo/CppProjects/learning&amp;practice/HackerRank30DaysOfCode/Day16_Exception_StringToInteger/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\learning&amp;practice\HackerRank30DaysOfCode\Day16_Exception_StringToInteger\"/>
+		</Unit>
+		<Unit filename="/cygdrive/d/GitHub Repo/CppProjects/learning&amp;practice/HackerRank30DaysOfCode/Day16_Exception_StringToInteger/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\learning&amp;practice\HackerRank30DaysOfCode\Day16_Exception_StringToInteger\"/>
 		</Unit>
 	</Project>
 </CodeBlocks_project_file>
